@@ -1,1 +1,338 @@
-{\"errCode\":null,\"errMsg\":\"\",\"pagination\":{\"beginPageIndex\":1,\"countResultMap\":null,\"currentPage\":1,\"endPageIndex\":1,\"numPerPage\":15,\"pageCount\":1,\"totalCount\":3,\"recordList\":[[\"SP1000003934\",\"铝\",\"铝1\",\"云铝1\",\"上海宝康仓储有限公司(宝康)\",\"1219吨\",\"12吨\",\"上期所1508\",\"2015-8-6 09:05:00\",\"2015-8-6\",{\"type\":\"span\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3855.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3855.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3855.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3855.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]},\"originalProps\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3855.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3855.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3855.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3855.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]}}}],[\"SP1000003933\",\"铝\",\"铝1\",\"云铝1\",\"上海京鸿实业有限公司\",\"122412吨\",\"1吨\",\"上期所1508+12\",\"2015-10-28 09:05:00\",\"2015-8-6\",{\"type\":\"span\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3854.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3854.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3854.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3854.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]},\"originalProps\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3854.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3854.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3854.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3854.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]}}}],[\"SP1000003928\",\"铝\",\"铝2\",\"云铝1\",\"上海京鸿实业有限公司\",\"12213吨\",\"1吨\",\"上期所1508+12\",\"2015-8-12 09:05:00\",\"2015-8-4\",{\"type\":\"span\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3849.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3849.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3849.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3849.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]},\"originalProps\":{\"children\":[{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/goods/edit/3849.html\",\"target\":\"_blank\",\"children\":\"编辑\"},\"originalProps\":{\"href\":\"/goods/edit/3849.html\",\"target\":\"_blank\",\"children\":\"编辑\"}}},\" \",{\"type\":\"a\",\"key\":null,\"ref\":null,\"_owner\":null,\"_context\":{},\"_store\":{\"props\":{\"href\":\"/mall/item_detail/3849.html\",\"target\":\"_blank\",\"children\":\"详情\"},\"originalProps\":{\"href\":\"/mall/item_detail/3849.html\",\"target\":\"_blank\",\"children\":\"详情\"}}}]}}}]]},\"success\":true,\"type\":\"1\"}
+{
+  "errCode": null,
+  "errMsg": "",
+  "pagination": {
+    "beginPageIndex": 1,
+    "countResultMap": null,
+    "currentPage": 1,
+    "endPageIndex": 1,
+    "numPerPage": 15,
+    "pageCount": 1,
+    "totalCount": 3,
+    "recordList": [
+      [
+        "SP1000003934",
+        "铝",
+        "铝1",
+        "云铝1",
+        "上海宝康仓储有限公司(宝康)",
+        "1219吨",
+        "12吨",
+        "上期所1508",
+        "2015-8-6 09:05:00",
+        "2015-8-6",
+        {
+          "type": "span",
+          "key": null,
+          "ref": null,
+          "_owner": null,
+          "_context": {},
+          "_store": {
+            "props": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3855.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3855.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3855.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3855.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            },
+            "originalProps": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3855.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3855.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3855.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3855.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      [
+        "SP1000003933",
+        "铝",
+        "铝1",
+        "云铝1",
+        "上海京鸿实业有限公司",
+        "122412吨",
+        "1吨",
+        "上期所1508+12",
+        "2015-10-28 09:05:00",
+        "2015-8-6",
+        {
+          "type": "span",
+          "key": null,
+          "ref": null,
+          "_owner": null,
+          "_context": {},
+          "_store": {
+            "props": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3854.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3854.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3854.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3854.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            },
+            "originalProps": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3854.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3854.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3854.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3854.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      [
+        "SP1000003928",
+        "铝",
+        "铝2",
+        "云铝1",
+        "上海京鸿实业有限公司",
+        "12213吨",
+        "1吨",
+        "上期所1508+12",
+        "2015-8-12 09:05:00",
+        "2015-8-4",
+        {
+          "type": "span",
+          "key": null,
+          "ref": null,
+          "_owner": null,
+          "_context": {},
+          "_store": {
+            "props": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3849.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3849.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3849.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3849.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            },
+            "originalProps": {
+              "children": [
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/goods/edit/3849.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    },
+                    "originalProps": {
+                      "href": "/goods/edit/3849.html",
+                      "target": "_blank",
+                      "children": "编辑"
+                    }
+                  }
+                },
+                " ",
+                {
+                  "type": "a",
+                  "key": null,
+                  "ref": null,
+                  "_owner": null,
+                  "_context": {},
+                  "_store": {
+                    "props": {
+                      "href": "/mall/item_detail/3849.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    },
+                    "originalProps": {
+                      "href": "/mall/item_detail/3849.html",
+                      "target": "_blank",
+                      "children": "详情"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    ]
+  },
+  "success": true,
+  "type": "1"
+}
